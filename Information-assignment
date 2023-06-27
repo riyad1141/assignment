@@ -1,0 +1,27 @@
+
+
+
+Task--- 2
+Answer: Please check the  web.php file  I will create hello Route that's redirect to DashBoard using 302
+
+
+Tak---3
+Answer:Please check the middleware folder i will create a LogRequestMiddleware.php file  that logs the request method and URL for every incoming request. Log the information to the Laravel log file.
+
+
+Task---4
+
+please check the web.php file i will create a route group for authenticated users only. This group should include routes for /profile and /settings. i will apply a middleware called AuthMiddleware to the route group to ensure only authenticated users can access these routes.
+
+
+Task----5
+Answer: please check the controller file and web.php file then i will Create a controller called ProductController that handles CRUD operations for a resource called Product.
+
+Task----6
+please check the SingleActionController and web.php file.
+
+Task----7
+please check the PostController.php
+
+Task---- 8
+please check the Blade file
